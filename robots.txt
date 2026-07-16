@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-zq3pcu.maidesk.cloud/sitemap.xml
